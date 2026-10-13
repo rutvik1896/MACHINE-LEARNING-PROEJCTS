@@ -327,7 +327,7 @@ The project provides practical experience with Python, Pandas, data visualizatio
 
 ## Author
 
-**Kartik Rajendra Dhobale**
+**RUTVIK SANTOSH SHELKE**
 
 **Department:** Artificial Intelligence and Data Science
 
