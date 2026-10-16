@@ -331,8 +331,6 @@ The project provides practical experience with Python, Pandas, data visualizatio
 
 **Department:** Artificial Intelligence and Data Science
 
----
 
-## License
 
-This project is intended for educational and academic purposes.
+
